@@ -1,4 +1,4 @@
-# SIEM-Threat-Detection-Lab: Splunk & Atomic Red Team
+# SIEM Threat-Detection Lab: Splunk & Atomic Red Team
 
 This project emulates a mini Security Operations Center (SOC) environment to showcase real-world threat detection using Splunk Enterprise, Sysmon, Splunk Universal Forwarder, and Atomic Red Team. It highlights end-to-end attacker simulation and detection mapped to the MITRE ATT&CK framework, including alerting, reporting, and correlation logic.
 
